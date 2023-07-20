@@ -12,11 +12,9 @@ The aim of the project is to analysis the data using SQL and get some interestin
 ## Tools:
 
 - MySQL
-- 
 ## Database or Schemas
 
 - imdb
-- 
 ## Tables present in database:
 
 - director_mapping
